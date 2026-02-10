@@ -9,7 +9,7 @@ import Scenarios from './pages/Scenarios'
 import Logs from './pages/Logs'
 import FAQ from './pages/FAQ'
 import PasswordCheck from './pages/PasswordCheck'
-import CyberNews from './pages/CYberNews'
+import CyberNews from './pages/CyberNews'
 
 
 
